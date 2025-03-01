@@ -11,14 +11,14 @@ export function Header() {
     >
       <div className="group flex gap-8">
         <a
-          href="https://github.com/SuyashPatil-29/ai-teacher"
+          href="https://github.com/NSNILESH7/Ai-Teacher"
           target="_blank"
           rel="noreferrer"
           className={aCx}
         >
           <p>GitHub</p>
         </a>
-        Made with ❤️ by Suyash Patil
+        Made with ❤️ by Nilesh
       </div>
       <ExpiryTimer />
     </header>
